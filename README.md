@@ -1,4 +1,4 @@
-# Android_Projects
+# DIRECT
 
 This is Appication named DIRECT which tries save the time of a "Whatsapp User".
  say -> 
